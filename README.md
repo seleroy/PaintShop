@@ -139,6 +139,5 @@ java -jar ./target/PaintShop-0.0.1-SNAPSHOT.jar [<absolute_path_to_input_file> <
 
 ## Contact
 
-In case of question or issue, please contact me : seleroy [at] gmail [dot] com
 
 
